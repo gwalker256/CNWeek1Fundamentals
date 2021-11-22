@@ -184,7 +184,20 @@
 // let text = "jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi";
 // console.log (`The last vowel has the index position ${Math.max (text.lastIndexOf("a"), text.lastIndexOf("e"), text.lastIndexOf("i"), text.lastIndexOf("o"), text.lastIndexOf("u"))}`);
 
-// if else activity 8-9 haven't tried
+// if else activity 8
+
+// const word = "strings";
+// const reversed = word.split('').reverse().join('');
+
+// if (word.charAt(0) == reversed.charAt(0)) {
+// console.log (true);
+
+// } 
+
+// else console.log (false);
+
+
+// if else activity 9 haven't tried
 
 
 
