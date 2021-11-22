@@ -18,15 +18,17 @@ const person = {
     name: "Graham",
     age: 31,
 
-    const readName = () => { 
+    readName () { 
         
         console.log(`Hello my name is ${this.name}`);
-    
+        
 
     }
+
+    
 }
 
-
+person.readName();
 
 
 
