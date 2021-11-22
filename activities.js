@@ -40,7 +40,14 @@
 
 // console.log(`Tomorrow I will have ${breakfast} for breakfast, ${lunch} for lunch and ${dinner} for dinner`);
 
-// variables activity 3 (this is the birthday one that confuses me
+// variables activity 3 (I am so unimpressed the months start at 0)
+
+// let currentDay = Date.now();
+// let birthday = new Date(2022, 00, 13);
+// let seconds = new Date(birthday - currentDay) / 1000;
+// let days = seconds/60/60/24;
+
+// console.log (Math.floor(days));
 
 // variables activity 4
 
@@ -139,9 +146,43 @@
 //     console.log (num)
 // }
 
-// if else activity 5 this is the pallindrome one I haven't done
+// if else activity 5
 
-// if else activity 6-9 haven't tried
+
+// const num = 123321;
+// const string = num.toString(); 
+// const reversed = string.split('').reverse().join('');
+
+// if (num == reversed){
+//     console.log(`${num} is a palindrome`);
+// } 
+
+// else {
+//     console.log(`${num} is not a palindrome`);
+// }
+
+// if else activity 6
+
+// const time = 1900;
+// const placeOfWork = "Desk 5"
+// const townOfHome = "Salford"
+
+// if (time <=930 || time >= 1730){
+
+//     console.log (`At ${time} I am at ${townOfHome} `)
+
+// }
+
+// else{
+
+//  console.log (`At ${time} I am at ${placeOfWork} `)
+
+// }
+
+
+// if else activity 7-9 haven't tried
+
+
 
 // arrays activity 1
 
