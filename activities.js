@@ -179,8 +179,12 @@
 
 // }
 
+// if else activity 7
 
-// if else activity 7-9 haven't tried
+// let text = "jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi";
+// console.log (`The last vowel has the index position ${Math.max (text.lastIndexOf("a"), text.lastIndexOf("e"), text.lastIndexOf("i"), text.lastIndexOf("o"), text.lastIndexOf("u"))}`);
+
+// if else activity 8-9 haven't tried
 
 
 
