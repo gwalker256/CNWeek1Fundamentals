@@ -224,7 +224,12 @@
 // favSongs.pop();
 // console.log(favSongs);
 
-// arrays activity 2 not done
+// arrays activity 2
+
+// const nums = [1, 2, 4, 5];
+// console.log (nums)
+// nums.splice(2, 0, 3);
+// console.log(nums);
 
 // loops activity 1
 
