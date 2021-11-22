@@ -197,8 +197,17 @@
 // else console.log (false);
 
 
-// if else activity 9 haven't tried
+// if else activity 9
 
+// const num1 = 50;
+// const num2 = 10;
+
+
+// if ((num1 + num2)%2===0){
+// console.log (num1 + num2)
+// }
+
+// else console.log (num1*num2)
 
 
 // arrays activity 1
